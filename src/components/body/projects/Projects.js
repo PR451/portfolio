@@ -1,8 +1,8 @@
 import React from "react";
-import Separator from "../../common/separator";
-import { ProjectData } from "../../data/projects";
-import ProjectCard from "./project-card";
-import "./projects.css";
+import Separator from "../../Common/Separator/Separator";
+import { ProjectData } from "../../Data/ProjectsData";
+import ProjectCard from "./ProjectCard";
+import "./Projects.css";
 function Projects() {
   const data = ProjectData;
   return (

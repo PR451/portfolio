@@ -1,8 +1,8 @@
 import React from "react";
-import "./work.css";
-import Separator from "../../common/separator";
-import {WorkData} from "../../data/work";
-import WorkCard from "./work-card";
+import "./Work.css";
+import Separator from "../../Common/Separator/Separator";
+import {WorkData} from "../../Data/WorkData";
+import WorkCard from "./WorkCard";
 function Work() {
   const data = WorkData;
   return (

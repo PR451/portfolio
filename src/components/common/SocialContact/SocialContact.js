@@ -1,6 +1,6 @@
 import React from "react";
-import { SocialData } from "../../data/social";
-import "./social-contact.css";
+import { SocialData } from "../../Data/SocialData";
+import "./SocialContact.css";
 function SocialContact() {
     const data = SocialData;
   return (

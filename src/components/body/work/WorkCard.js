@@ -1,5 +1,5 @@
 import React from "react";
-import "./work-card.css";
+import "./WorkCard.css";
 function WorkCard ({ item }) {
   return (
     <div className="work-card">

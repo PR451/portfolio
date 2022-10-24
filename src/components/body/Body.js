@@ -1,10 +1,10 @@
 import React from "react";
-import "./body.css";
-import About from "./about/index";
-import Projects from "./projects/index";
-import Skills from "./skills/index";
-import Work from "./work/index";
-import Contact from "./contact/index";
+import "./Body.css";
+import About from "./About/About";
+import Projects from "./Projects/Projects";
+import Skills from "./Skills/Skills";
+import Work from "./Work/Work";
+import Contact from "./Contact/Contact";
 
 function Body() {
   return (

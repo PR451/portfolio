@@ -1,6 +1,6 @@
 import React from "react";
-import "./about.css";
-import SocialContact from "../../common/social-contact/index";
+import "./About.css";
+import SocialContact from "../../Common/SocialContact/SocialContact";
 function About() {
   return (
     <div className="about">

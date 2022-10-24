@@ -1,7 +1,7 @@
 import React from "react";
-import "./contact.css";
-import Separator from "../../common/separator";
-import SocialContact from "../../common/social-contact";
+import "./Contact.css";
+import Separator from "../../Common/Separator/Separator";
+import SocialContact from "../../Common/SocialContact/SocialContact";
 function Contact() {
   return (
     <div className="contact">

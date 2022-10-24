@@ -1,5 +1,5 @@
 import React from "react";
-import "./separator.css";
+import "./Separator.css";
 function Separator() {
   return <div className="separator"></div>;
 }

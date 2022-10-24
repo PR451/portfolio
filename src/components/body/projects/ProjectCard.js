@@ -1,5 +1,5 @@
 import React from "react";
-import "./project-card.css";
+import "./ProjectCard.css";
 function ProjectCard({ project }) {
   return (
     <div className="project-card">

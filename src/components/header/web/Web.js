@@ -1,5 +1,5 @@
 import React from "react";
-import './web.css';
+import './Web.css';
 
 function Web() {
   return <div className="web">
