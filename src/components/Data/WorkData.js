@@ -4,7 +4,7 @@ export const WorkData = [
         dateJoining: "Jan 2018",
         dateEnd: "Nov 2019",
         companyLogo:"",
-        work:"Front-End Web Developer with 2 years of experience developing, implementing and supporting websites for various clients. I have also Quick learner and problem-solving skills."
+        work:"Front-End Web Developer with 2 years of experience developing, implementing and supporting websites for various clients. I am a quick learner with problem-solving abilities.."
     },
     {
         company: "Software Test Engineer, Suma Soft, Pune, IN" ,
