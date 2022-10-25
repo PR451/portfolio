@@ -27,10 +27,11 @@
 
 .tag {
     padding:  4px 8px;
-    background-color: rgb(112, 112, 227);
+    background-color: #874feb;
     border-radius: 4px;
     margin-right: 6px;
     margin-bottom: 4px;
+    color: white;
 }
 
 .project-links a {
@@ -47,7 +48,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgb(112, 112, 227);
+    background-color: #874feb;
+    color: white;
     width: max-content;
     padding: 4px 8px;
     border-radius: 4px;
